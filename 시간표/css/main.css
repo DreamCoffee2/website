@@ -127,9 +127,6 @@ body{
 #footer p{
   position: absolute;
 }
-#footer {
-  position: absolute;
-}
 @media(max-width:480px){
   #main .thumbnails {
     display: block;
