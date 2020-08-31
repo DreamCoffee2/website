@@ -1,0 +1,49 @@
+body {
+
+    background-image : url('../../images/bg.jpg');
+
+    background-repeat : no-repeat;
+
+    background-size : cover;
+
+}
+
+#container h1 {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+#container p {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+
+  #container {
+    width: 940px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+  }
+  #header {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #bcbcbc;
+  }
+  #content {
+    width: 580px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: right;
+    border: 1px solid #bcbcbc;
+  }
+  #sidebar {
+    width: 260px;
+    height: 400px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #bcbcbc;
+  }
+  #footer {
+    clear: both;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
