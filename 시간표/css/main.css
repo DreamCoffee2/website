@@ -124,9 +124,6 @@ body{
   padding : 500;
   margin : 500;
 }
-#footer p{
-  position: absolute;
-}
 @media(max-width:480px){
   #main .thumbnails {
     display: block;
